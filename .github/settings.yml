@@ -1,0 +1,8 @@
+_extends: .github
+repository:
+  name: heroku-scaffolder
+  description: >-
+    Scaffolder to be used with the @form8ion project scaffolding suite that adds
+    support for deploying projects to the Heroku application plat
+  homepage: 'https://npm.im/@trevtrich/heroku-scaffolder'
+  private: false
